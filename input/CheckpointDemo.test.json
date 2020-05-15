@@ -1,0 +1,3 @@
+{
+  "CheckpointDemo.gcs_checkpoint": "gs://broad-dsde-methods-checkpoint"
+}
